@@ -1,9 +1,15 @@
-## Hi there 👋
+# Hello! 👋
+## This is a quick description about everything you need to know about me!
 
-<!--
-**ShadyVoidz/ShadyVoidz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who am I?
+- My name is Hamish!
+- I am currently 14 years of age.
+- I live near Canberra in Australia.
+- I go to High School in Year 10.
+- I am really passionate about programming and coding.
+- I'm wanting to pursue a future career as a Machine Learning Engineer, to start I need to gain myself some work experience!
 
-Here are some ideas to get you started:
+### ![image](https://github.com/user-attachments/assets/f46aa08e-76d2-4b10-88c2-e88cc944b277)What are my skills? What knowledge do I have in programming?
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
